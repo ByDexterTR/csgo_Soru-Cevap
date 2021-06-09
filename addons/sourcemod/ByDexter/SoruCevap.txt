@@ -1,0 +1,121 @@
+// Sorular eklendiği zaman otomatik güncellenir
+// cfg/ByDexter/SoruCevap.cfg üzerinden süre ayarlarını yapabilirsiniz.
+
+"ByDexter" // Değişme
+{
+	"toplamsoru" "19" // Toplam soru sayısı
+	"1" // Soru sayısı
+	{
+		"soru" "Türk hanlarının yaşadığı çerge olarak da bilinen büyük ve süslü çadırın adı nedir?" // Soru - 512 karakter
+		"cevap" "Otağ" // Cevap - 256 karater ( büyük küçük farketmez her türlü doğru cevabı sayar ) oTaĞ / OtAğ
+		"ödül" "1" // Kredi ödülü
+	}
+	"2"
+	{
+		"soru" "Osmanlı Devletinin kurucusu olan Osmanlı ailesi hangi Türk boyuna mensuptur?"
+		"cevap" "Kayı"
+		"ödül" "1"
+	}
+	"3"
+	{
+		"soru" "Kimler kepenek giyer?"
+		"cevap" "Çobanlar"
+		"ödül" "1"
+	}
+	"4"
+	{
+		"soru" "Yerden fışkırarak çıkan sıcak su kaynaklarına ne denir?"
+		"cevap" "Gayzer"
+		"ödül" "1"
+	}
+	"5"
+	{
+		"soru" "Kızınca tüküren hayvan hangisidir?"
+		"cevap" "Lama"
+		"ödül" "1"
+	}
+	"6"
+	{
+		"soru" "Bozkırın tezenesi lakaplı rahmetli halk ozanı kimdir?"
+		"cevap" "Neşet Ertaş"
+		"ödül" "1"
+	}
+	"7"
+	{
+		"soru" "Yazın kırlarda ve ekin tarlalarında yetişen kırmızı narin çiçek hangisidir?"
+		"cevap" "Gelincik"
+		"ödül" "1"
+	}
+	"8"
+	{
+		"soru" "Çanakkale Savaşı sırasında 215 kg’lık mermiyi tek başına kaldıran Türk askeri kimdir?"
+		"cevap" "Seyit Onbaşı"
+		"ödül" "1"
+	}
+	"9"
+	{
+		"soru" "Türk tarihinin en ünlü mimarı kimdir?"
+		"cevap" "Mimar Sinan"
+		"ödül" "1"
+	}
+	"10"
+	{
+		"soru" "Türkçe hangi dil grubuna girmektedir?"
+		"cevap" "Ural Altay"
+		"ödül" "1"
+	}
+	"11"
+	{
+		"soru" "Ülkemizde 2017 yılında asgari ücret ne kadardı?"
+		"cevap" "1400"
+		"ödül" "1"
+	}
+	"12"
+	{
+		"soru" "Hücre yapısında yer alan organelin adı nedir?"
+		"cevap" "Lizozom"
+		"ödül" "1"
+	}
+	"13"
+	{
+		"soru" "Ülkemizde yakın zamanda kaldırılmış olan TEOG sisteminin açılım karşılığı nedir?"
+		"cevap" "Temel Eğitimden Ortaöğretime Geçiş"
+		"ödül" "1"
+	}
+	"14"
+	{
+		"soru" "Aspirinin ilk kez çıkış yılı nedir?"
+		"cevap" "1899"
+		"ödül" "1"
+	}
+	"15"
+	{
+		"soru" "Arapların kullanmış olduğu alfabe hangi yönde okunmaktadır?"
+		"cevap" "Sağdan Sola"
+		"ödül" "1"
+	}
+	"16"
+	{
+		"soru" "Tiyatroda kendi kendine konuşma olarak bilinen türün adı nedir?"
+		"cevap" "Monolog"
+		"ödül" "1"
+	}
+	"17"
+	{
+		"soru" "Geminin baş kısmının adı nedir?"
+		"cevap" "Pruva"
+		"ödül" "1"
+	}
+	"18"
+	{
+		"soru" "Dinler arasında 'Davut Yıldızı' sembolünün mensup olduğu din hangisidir?"
+		"cevap" "Musevilik"
+		"ödül" "1"
+	}
+	"19"
+	{
+		"soru" "Eski ABD Başkanı John Kennedy’i düzenlediği suikast ile öldüren kişinin adı nedir?"
+		"cevap" "Lee Harvey Oswald"
+		"ödül" "1"
+	}
+}
