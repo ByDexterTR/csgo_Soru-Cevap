@@ -59,7 +59,6 @@ public Action SoruCikar(Handle timer)
 		PrintToChatAll("------------------------------------------------");
 		PrintToChatAll("[SM] \x0EGaglı oyuncularda yazabilir!");
 		PrintToChatAll("[SM] \x04%s", Soru);
-		PrintToChatAll("------------------------------------------------");
 		OyunAktif = true;
 	}
 	kv.Rewind();
