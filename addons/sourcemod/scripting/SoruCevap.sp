@@ -56,8 +56,10 @@ public Action SoruCikar(Handle timer)
 		kv.GetString("soru", Soru, 512);
 		kv.GetString("cevap", Cevap, 256);
 		kv.GetString("ödül", Odul, 20);
+		PrintToChatAll("------------------------------------------------");
 		PrintToChatAll("[SM] \x0EGaglı oyuncularda yazabilir!");
 		PrintToChatAll("[SM] \x04%s", Soru);
+		PrintToChatAll("------------------------------------------------");
 		OyunAktif = true;
 	}
 	kv.Rewind();
