@@ -1,121 +1,262 @@
-// Sorular eklendiği zaman otomatik güncellenir
-// cfg/ByDexter/SoruCevap.cfg üzerinden süre ayarlarını yapabilirsiniz.
-
-"ByDexter" // Değişme
+"ByDexter"
 {
-	"toplamsoru" "19" // Toplam soru sayısı
-	"1" // Soru sayısı
+	"toplamsoru"		"44"
+	"1"
 	{
-		"soru" "Türk hanlarının yaşadığı çerge olarak da bilinen büyük ve süslü çadırın adı nedir?" // Soru - 512 karakter
-		"cevap" "Otağ" // Cevap - 256 karater ( büyük küçük farketmez her türlü doğru cevabı sayar ) oTaĞ / OtAğ
-		"ödül" "1" // Kredi ödülü
+		"soru"		"Türkçe hangi dil grubuna girmektedir?"
+		"cevap"		"Ural Altay"
+		"ödül"		"5"
 	}
 	"2"
 	{
-		"soru" "Osmanlı Devletinin kurucusu olan Osmanlı ailesi hangi Türk boyuna mensuptur?"
-		"cevap" "Kayı"
-		"ödül" "1"
+		"soru"		"1071’de yapılan Malazgirt Savaşıyla Anadolu’nun kapılarını Türklere açan Selçuklu Sultanı kimdir?"
+		"cevap"		"Sultan Alparslan"
+		"ödül"		"5"
 	}
 	"3"
 	{
-		"soru" "Kimler kepenek giyer?"
-		"cevap" "Çobanlar"
-		"ödül" "1"
+		"soru"		"Duvara asılı bir haritanın üstü her zaman hangi yönü gösterir ?"
+		"cevap"		"Kuzey"
+		"ödül"		"5"
 	}
 	"4"
 	{
-		"soru" "Yerden fışkırarak çıkan sıcak su kaynaklarına ne denir?"
-		"cevap" "Gayzer"
-		"ödül" "1"
+		"soru"		"Yerden fışkırarak çıkan sıcak su kaynaklarına ne denir?"
+		"cevap"		"Gayzer"
+		"ödül"		"5"
 	}
 	"5"
 	{
-		"soru" "Kızınca tüküren hayvan hangisidir?"
-		"cevap" "Lama"
-		"ödül" "1"
+		"soru"		"Kızınca tüküren hayvan hangisidir?"
+		"cevap"		"Lama"
+		"ödül"		"5"
 	}
 	"6"
 	{
-		"soru" "Bozkırın tezenesi lakaplı rahmetli halk ozanı kimdir?"
-		"cevap" "Neşet Ertaş"
-		"ödül" "1"
+		"soru"		"Türkiye'yi ağaçlandırmak ve erozyonla mücadele etmek olan kurulan Sivil Toplum Kuruluşu hangisidir?"
+		"cevap"		"TEMA"
+		"ödül"		"5"
 	}
 	"7"
 	{
-		"soru" "Yazın kırlarda ve ekin tarlalarında yetişen kırmızı narin çiçek hangisidir?"
-		"cevap" "Gelincik"
-		"ödül" "1"
+		"soru"		"Yazın kırlarda ve ekin tarlalarında yetişen kırmızı narin çiçek hangisidir?"
+		"cevap"		"Gelincik"
+		"ödül"		"5"
 	}
 	"8"
 	{
-		"soru" "Çanakkale Savaşı sırasında 215 kg’lık mermiyi tek başına kaldıran Türk askeri kimdir?"
-		"cevap" "Seyit Onbaşı"
-		"ödül" "1"
+		"soru"		"Depremin büyüklüğünü ve süresini ölçen alete ne ad verilir ?"
+		"cevap"		"Simograf"
+		"ödül"		"5"
 	}
 	"9"
 	{
-		"soru" "Türk tarihinin en ünlü mimarı kimdir?"
-		"cevap" "Mimar Sinan"
-		"ödül" "1"
+		"soru"		"Türk tarihinin en ünlü mimarı kimdir?"
+		"cevap"		"Mimar Sinan"
+		"ödül"		"5"
 	}
 	"10"
 	{
-		"soru" "Türkçe hangi dil grubuna girmektedir?"
-		"cevap" "Ural Altay"
-		"ödül" "1"
+		"soru"		"Dünyanın şekli nedir?"
+		"cevap"		"Geoit"
+		"ödül"		"5"
 	}
 	"11"
 	{
-		"soru" "Ülkemizde 2017 yılında asgari ücret ne kadardı?"
-		"cevap" "1400"
-		"ödül" "1"
+		"soru"		"Ülkemizde 2017 yılında asgari ücret ne kadardı?"
+		"cevap"		"1400"
+		"ödül"		"5"
 	}
 	"12"
 	{
-		"soru" "Hücre yapısında yer alan organelin adı nedir?"
-		"cevap" "Lizozom"
-		"ödül" "1"
+		"soru"		"Futbol Toplam Kaç Kişi İle Oynanır?"
+		"cevap"		"22"
+		"ödül"		"5"
 	}
 	"13"
 	{
-		"soru" "Ülkemizde yakın zamanda kaldırılmış olan TEOG sisteminin açılım karşılığı nedir?"
-		"cevap" "Temel Eğitimden Ortaöğretime Geçiş"
-		"ödül" "1"
+		"soru"		"Endonezya Devleti Hangi Kıtadadır?"
+		"cevap"		"Asya"
+		"ödül"		"5"
 	}
 	"14"
 	{
-		"soru" "Aspirinin ilk kez çıkış yılı nedir?"
-		"cevap" "1899"
-		"ödül" "1"
+		"soru"		"Hollanda’nın Başkenti Nedir?"
+		"cevap"		"Amsterdam"
+		"ödül"		"5"
 	}
 	"15"
 	{
-		"soru" "Arapların kullanmış olduğu alfabe hangi yönde okunmaktadır?"
-		"cevap" "Sağdan Sola"
-		"ödül" "1"
+		"soru"		"Keçinin erkeğine ne ad verilir?"
+		"cevap"		"Teke"
+		"ödül"		"5"
 	}
 	"16"
 	{
-		"soru" "Tiyatroda kendi kendine konuşma olarak bilinen türün adı nedir?"
-		"cevap" "Monolog"
-		"ödül" "1"
+		"soru"		"Türkiye’de kaç tane coğrafi bölge bulunmaktadır?"
+		"cevap"		"7"
+		"ödül"		"5"
 	}
 	"17"
 	{
-		"soru" "Geminin baş kısmının adı nedir?"
-		"cevap" "Pruva"
-		"ödül" "1"
+		"soru"		"Geminin baş kısmının adı nedir?"
+		"cevap"		"Pruva"
+		"ödül"		"5"
 	}
 	"18"
 	{
-		"soru" "Dinler arasında 'Davut Yıldızı' sembolünün mensup olduğu din hangisidir?"
-		"cevap" "Musevilik"
-		"ödül" "1"
+		"soru"		"Dinler arasında 'Davut Yıldızı' sembolünün mensup olduğu din hangisidir?"
+		"cevap"		"Musevilik"
+		"ödül"		"5"
 	}
 	"19"
 	{
-		"soru" "Eski ABD Başkanı John Kennedy’i düzenlediği suikast ile öldüren kişinin adı nedir?"
-		"cevap" "Lee Harvey Oswald"
-		"ödül" "1"
+		"soru"		"Bir gün kaç saniyedir?"
+		"cevap"		"86400"
+		"ödül"		"5"
+	}
+	"21"
+	{
+		"soru"		"Konyanın hangi yemeği meşhurdur?"
+		"cevap"		"Etliekmek"
+		"ödül"		"5"
+	}
+	"22"
+	{
+		"soru"		"Hangi ülkenin iki tane başkenti vardır?"
+		"cevap"		"Afrika"
+		"ödül"		"5"
+	}
+	"23"
+	{
+		"soru"		"Mustafa Kemal Atatürkün nüfüsa kayırlı olduğu il hangisidir ?"
+		"cevap"		"Gaziantep"
+		"ödül"		"5"
+	}
+	"24"
+	{
+		"soru"		"Türkiye’nin en fazla yağış alan ili hangisidir?"
+		"cevap"		"Rize"
+		"ödül"		"5"
+	}
+	"25"
+	{
+		"soru"		"42 Nerenin Plakasıdır?"
+		"cevap"		"Konya"
+		"ödül"		"5"
+	}
+	"26"
+	{
+		"soru"		"Yazları sıcak ve kurak; kışları ise soğuk ve karlı geçen iklim türü hangisidir?"
+		"cevap"		"Karasal iklim"
+		"ödül"		"5"
+	}
+	"27"
+	{
+		"soru"		"Avustralya Adasının En Tanınmış Hayvanının İsmi Nedir?"
+		"cevap"		"Kanguru"
+		"ödül"		"5"
+	}
+	"28"
+	{
+		"soru"		"Futbol Maçlarında Oynanan Topun Fifa Kurallarına Göre Ağırlığı Ne Kadar Olmalıdır?"
+		"cevap"		"452 Gram"
+		"ödül"		"5"
+	}
+	"29"
+	{
+		"soru"		"İlk Defa Dünya Haritasını Kim Çizmiştir?"
+		"cevap"		"Piri Reis"
+		"ödül"		"5"
+	}
+	"30"
+	{
+		"soru"		"İstiklal Şairi olarak anılan şair aşağıdakilerden hangisidir?"
+		"cevap"		"Mehmet Akif Ersoy"
+		"ödül"		"5"
+	}
+	"31"
+	{
+		"soru"		"Rumeli hisarını hangi padişah yaptırmıştır?"
+		"cevap"		"Fatih Sultan Mehmet"
+		"ödül"		"5"
+	}
+	"32"
+	{
+		"soru"		"İstanbul hangi coğrafi bölgemizde yer almaktadır?"
+		"cevap"		"Marmara"
+		"ödül"		"5"
+	}
+	"33"
+	{
+		"soru"		"Uçaklarda pilot kabinine ne ad verilir?"
+		"cevap"		"Kokpit"
+		"ödül"		"5"
+	}
+	"34"
+	{
+		"soru"		"Şahi Topu Kaç Kilogramdır?"
+		"cevap"		"680 kg"
+		"ödül"		"5"
+	}
+	"35"
+	{
+		"soru"		"'Beni öldürmeyen' acı güçlendirir hangi ünlü düşünürün sözüdür?"
+		"cevap"		"Nietzsche"
+		"ödül"		"5"
+	}
+	"36"
+	{
+		"soru"		"AK-47 olarak bilinen silahı kim bulmuştur"
+		"cevap"		"Mikhail Kalashnikov"
+		"ödül"		"5"
+	}
+	"37"
+	{
+		"soru"		"AB standartlarına göre IBAN numarasında en fazla kaç adet rakam olabilir?"
+		"cevap"		"34"
+		"ödül"		"5"
+	}
+	"38"
+	{
+		"soru"		"Antik Yunan'da kadın ve erkeklerin vazgeçilmez kıyafeti neydi?"
+		"cevap"		"Khiton"
+		"ödül"		"5"
+	}
+	"39"
+	{
+		"soru"		"Bir yılda kaç ay 30 günden oluşmaktadır?"
+		"cevap"		"4"
+		"ödül"		"5"
+	}
+	"40"
+	{
+		"soru"		"Bir yolun kıvrıldığı yere ne denir?"
+		"cevap"		"Viraj"
+		"ödül"		"5"
+	}
+	"41"
+	{
+		"soru"		"Dünyanın en büyük elmaslarından biri olan 'Star of Sierra Leone' kaç karattır?"
+		"cevap"		"968.900024"
+		"ödül"		"5"
+	}
+	"42"
+	{
+		"soru"		"Dünyanın en büyük gölü hangisidir?"
+		"cevap"		"Hazar"
+		"ödül"		"5"
+	}
+	"43"
+	{
+		"soru"		"Genç yaşta milyarder olan girişimci Evan Spiegel hangi uygulamanın sahibidir?"
+		"cevap"		"Snapchat"
+		"ödül"		"5"
+	}
+	"44"
+	{
+		"soru"		"Gerçekte olmuş gibi kuşaktan kuşağa aktarılan sözlü ya da yazılı anlatılara ne ad verilir?"
+		"cevap"		"Efsane"
+		"ödül"		"5"
 	}
 }
